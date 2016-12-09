@@ -16,3 +16,7 @@ Using the Windows cmd tool:
 `python alarm.py 13 30`
 
 Note that it uses the 24-hour time format. 
+
+# Screenshot
+
+![Screenshot Python Alarm Windows](https://raw.githubusercontent.com/nicolas-perez/alarm.py/master/screenshot_alarm.py.png)
